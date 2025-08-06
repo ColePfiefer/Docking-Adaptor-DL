@@ -1,0 +1,176 @@
+======================================================================
+ISS DOCKING PATTERN DETECTION - BATCH PROCESSING REPORT
+======================================================================
+
+Report Generated: 2025-08-06 15:48:30
+Dataset Path: dataset
+
+DETECTION STATISTICS
+----------------------------------------
+Total Images Processed: 142
+Successful Image Loads: 142
+Patterns Detected: 0
+Detection Rate: 0.00%
+
+CONFIDENCE METRICS
+----------------------------------------
+Average Confidence: 0.0000
+Min Confidence: 0.0000
+Max Confidence: 0.0000
+Std Deviation: 0.0000
+
+PERFORMANCE METRICS
+----------------------------------------
+Average Processing Time: 3.2449 seconds
+Total Processing Time: 460.77 seconds
+Average FPS: 0.31
+Average Circles per Image: 2.48
+
+DETECTION DETAILS
+----------------------------------------
+
+Successful Detections:
+
+Failed Detections:
+  ❌ IMG_10072025161331.png - Pattern not found
+  ❌ IMG_10072025161331.png - Pattern not found
+  ❌ IMG_10072025161333.png - Pattern not found
+  ❌ IMG_10072025161333.png - Pattern not found
+  ❌ IMG_10072025161339.png - Pattern not found
+  ❌ IMG_10072025161339.png - Pattern not found
+  ❌ IMG_10072025161342.png - Pattern not found
+  ❌ IMG_10072025161342.png - Pattern not found
+  ❌ IMG_10072025161344.png - Pattern not found
+  ❌ IMG_10072025161344.png - Pattern not found
+  ❌ IMG_10072025161347.png - Pattern not found
+  ❌ IMG_10072025161347.png - Pattern not found
+  ❌ IMG_10072025161349.png - Pattern not found
+  ❌ IMG_10072025161349.png - Pattern not found
+  ❌ IMG_10072025161351.png - Pattern not found
+  ❌ IMG_10072025161351.png - Pattern not found
+  ❌ IMG_10072025161353.png - Pattern not found
+  ❌ IMG_10072025161353.png - Pattern not found
+  ❌ IMG_10072025161355.png - Pattern not found
+  ❌ IMG_10072025161355.png - Pattern not found
+  ❌ IMG_10072025161357.png - Pattern not found
+  ❌ IMG_10072025161357.png - Pattern not found
+  ❌ IMG_10072025161359.png - Pattern not found
+  ❌ IMG_10072025161359.png - Pattern not found
+  ❌ IMG_10072025161428.png - Pattern not found
+  ❌ IMG_10072025161428.png - Pattern not found
+  ❌ IMG_10072025161431.png - Pattern not found
+  ❌ IMG_10072025161431.png - Pattern not found
+  ❌ IMG_10072025161434.png - Pattern not found
+  ❌ IMG_10072025161434.png - Pattern not found
+  ❌ IMG_10072025161437.png - Pattern not found
+  ❌ IMG_10072025161437.png - Pattern not found
+  ❌ IMG_10072025161451.png - Pattern not found
+  ❌ IMG_10072025161451.png - Pattern not found
+  ❌ IMG_10072025161456.png - Pattern not found
+  ❌ IMG_10072025161456.png - Pattern not found
+  ❌ IMG_10072025161458.png - Pattern not found
+  ❌ IMG_10072025161458.png - Pattern not found
+  ❌ IMG_10072025161459.png - Pattern not found
+  ❌ IMG_10072025161459.png - Pattern not found
+  ❌ IMG_10072025161518.png - Pattern not found
+  ❌ IMG_10072025161518.png - Pattern not found
+  ❌ IMG_10072025161528.png - Pattern not found
+  ❌ IMG_10072025161528.png - Pattern not found
+  ❌ IMG_10072025161533.png - Pattern not found
+  ❌ IMG_10072025161533.png - Pattern not found
+  ❌ IMG_10072025161538.png - Pattern not found
+  ❌ IMG_10072025161538.png - Pattern not found
+  ❌ IMG_10072025161540.png - Pattern not found
+  ❌ IMG_10072025161540.png - Pattern not found
+  ❌ IMG_10072025161543.png - Pattern not found
+  ❌ IMG_10072025161543.png - Pattern not found
+  ❌ IMG_10072025161547.png - Pattern not found
+  ❌ IMG_10072025161547.png - Pattern not found
+  ❌ IMG_10072025161557.png - Pattern not found
+  ❌ IMG_10072025161557.png - Pattern not found
+  ❌ IMG_10072025161559.png - Pattern not found
+  ❌ IMG_10072025161559.png - Pattern not found
+  ❌ IMG_10072025161601.png - Pattern not found
+  ❌ IMG_10072025161601.png - Pattern not found
+  ❌ IMG_10072025161602.png - Pattern not found
+  ❌ IMG_10072025161602.png - Pattern not found
+  ❌ IMG_10072025161624.png - Pattern not found
+  ❌ IMG_10072025161624.png - Pattern not found
+  ❌ IMG_10072025161626.png - Pattern not found
+  ❌ IMG_10072025161626.png - Pattern not found
+  ❌ IMG_10072025161629.png - Pattern not found
+  ❌ IMG_10072025161629.png - Pattern not found
+  ❌ IMG_10072025161638.png - Pattern not found
+  ❌ IMG_10072025161638.png - Pattern not found
+  ❌ IMG_10072025161640.png - Pattern not found
+  ❌ IMG_10072025161640.png - Pattern not found
+  ❌ IMG_10072025161715.png - Pattern not found
+  ❌ IMG_10072025161715.png - Pattern not found
+  ❌ IMG_10072025161717.png - Pattern not found
+  ❌ IMG_10072025161717.png - Pattern not found
+  ❌ IMG_10072025161719.png - Pattern not found
+  ❌ IMG_10072025161719.png - Pattern not found
+  ❌ IMG_10072025161734.png - Pattern not found
+  ❌ IMG_10072025161734.png - Pattern not found
+  ❌ IMG_10072025161739.png - Pattern not found
+  ❌ IMG_10072025161739.png - Pattern not found
+  ❌ IMG_10072025161740.png - Pattern not found
+  ❌ IMG_10072025161740.png - Pattern not found
+  ❌ IMG_10072025161755.png - Pattern not found
+  ❌ IMG_10072025161755.png - Pattern not found
+  ❌ IMG_10072025161756.png - Pattern not found
+  ❌ IMG_10072025161756.png - Pattern not found
+  ❌ IMG_10072025161758.png - Pattern not found
+  ❌ IMG_10072025161758.png - Pattern not found
+  ❌ IMG_10072025161814.png - Pattern not found
+  ❌ IMG_10072025161814.png - Pattern not found
+  ❌ IMG_10072025161817.png - Pattern not found
+  ❌ IMG_10072025161817.png - Pattern not found
+  ❌ IMG_10072025161824.png - Pattern not found
+  ❌ IMG_10072025161824.png - Pattern not found
+  ❌ IMG_10072025161825.png - Pattern not found
+  ❌ IMG_10072025161825.png - Pattern not found
+  ❌ IMG_10072025161830.png - Pattern not found
+  ❌ IMG_10072025161830.png - Pattern not found
+  ❌ IMG_10072025161846.png - Pattern not found
+  ❌ IMG_10072025161846.png - Pattern not found
+  ❌ IMG_10072025161903.png - Pattern not found
+  ❌ IMG_10072025161903.png - Pattern not found
+  ❌ IMG_10072025161905.png - Pattern not found
+  ❌ IMG_10072025161905.png - Pattern not found
+  ❌ IMG_10072025161912.png - Pattern not found
+  ❌ IMG_10072025161912.png - Pattern not found
+  ❌ IMG_10072025161916.png - Pattern not found
+  ❌ IMG_10072025161916.png - Pattern not found
+  ❌ IMG_10072025161918.png - Pattern not found
+  ❌ IMG_10072025161918.png - Pattern not found
+  ❌ IMG_10072025161919.png - Pattern not found
+  ❌ IMG_10072025161919.png - Pattern not found
+  ❌ IMG_10072025161955.png - Pattern not found
+  ❌ IMG_10072025161955.png - Pattern not found
+  ❌ IMG_10072025162000.png - Pattern not found
+  ❌ IMG_10072025162000.png - Pattern not found
+  ❌ IMG_10072025162006.png - Pattern not found
+  ❌ IMG_10072025162006.png - Pattern not found
+  ❌ IMG_10072025162057.png - Pattern not found
+  ❌ IMG_10072025162057.png - Pattern not found
+  ❌ IMG_10072025162059.png - Pattern not found
+  ❌ IMG_10072025162059.png - Pattern not found
+  ❌ IMG_10072025162103.png - Pattern not found
+  ❌ IMG_10072025162103.png - Pattern not found
+  ❌ IMG_10072025162112.png - Pattern not found
+  ❌ IMG_10072025162112.png - Pattern not found
+  ❌ IMG_10072025162115.png - Pattern not found
+  ❌ IMG_10072025162115.png - Pattern not found
+  ❌ IMG_10072025162116.png - Pattern not found
+  ❌ IMG_10072025162116.png - Pattern not found
+  ❌ IMG_10072025162118.png - Pattern not found
+  ❌ IMG_10072025162118.png - Pattern not found
+  ❌ IMG_10072025162126.png - Pattern not found
+  ❌ IMG_10072025162126.png - Pattern not found
+  ❌ IMG_10072025162129.png - Pattern not found
+  ❌ IMG_10072025162129.png - Pattern not found
+  ❌ IMG_10072025162131.png - Pattern not found
+  ❌ IMG_10072025162131.png - Pattern not found
+  ❌ IMG_10072025162135.png - Pattern not found
+  ❌ IMG_10072025162135.png - Pattern not found
